@@ -15,6 +15,31 @@ Third Input : End Port <br> <br>
 - **Pip** `>= v23.1.2`
     - Install pip from [here](https://pip.pypa.io/en/stable/installing/).
 
+# installing:
+
+  <h3>Debian based systems:</h3>
+
+```
+$ sudo apt-get update && sudo apt-get install python3 python3-pip -y
+
+$ git clone https://github.com/Hyzle/BasicPortScanner
+
+$ cd BasicPortScanner/
+
+$ python3 -m pip install -r requirements.txt
+```
+
+  <h3>macOS / OSX:</h3>
+
+```
+$ brew install python3
+
+$ git clone https://github.com/Hyzle/BasicPortScanner
+
+$ cd BasicPortScanner/
+
+$ python3 -m pip install -r requirements.txt
+```
 ## Tested On : 
 <br> Ubuntu (Linux) and Windows 10 Pro  <br> <br> 
 ## Screenshots : <br> <br>
