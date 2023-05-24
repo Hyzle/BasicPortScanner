@@ -9,7 +9,7 @@ Third Input : End Port <br> <br>
 
  [![GitHub top language](https://img.shields.io/github/languages/top/vinitshahdeo/PortScanner?logo=python&logoColor=white)](https://www.python.org/)
 
-- **Python** `>= v3.11.7`
+- **Python** `>= v2.7.0`
     - Install Python from [here](https://www.python.org/).
     
 - **Pip** `>= v23.1.2`
