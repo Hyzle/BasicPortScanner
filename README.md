@@ -1,6 +1,6 @@
 # BasicPortScanner
 A basic Port Scanner :mag_right: using python <br>
-# usage:
+# Usage:
 
   <h3>Start portSpider with Python3:</h3> 
 
