@@ -1,6 +1,13 @@
 # BasicPortScanner
 A basic Port Scanner :mag_right: using python <br>
-# How To Use :
+# usage:
+
+  <h3>Start portSpider with Python3:</h3> 
+
+```
+python3 portSpider.py
+```
+<br>
 First Input : Ip Adress <br> <br>
 Second Input : Start Port <br> <br>
 Third Input : End Port <br> <br>
@@ -40,6 +47,7 @@ $ cd BasicPortScanner/
 
 $ python3 -m pip install -r requirements.txt
 ```
+**NOTE**: You need to have [Homebrew](http://brew.sh/) installed before running the macOS/OSX installation.<br>
 ## Tested On : 
 <br> Ubuntu (Linux) and Windows 10 Pro  <br> <br> 
 ## Screenshots : <br> <br>
