@@ -12,7 +12,7 @@ Third Input : End Port <br> <br>
 - **Python** `>= v2.7.0`
     - Install Python from [here](https://www.python.org/).
     
-- **Pip** `>= v23.1.2`
+- **Pip** `>= v9.0.1`
     - Install pip from [here](https://pip.pypa.io/en/stable/installing/).
 
 # installing:
@@ -44,3 +44,6 @@ $ python3 -m pip install -r requirements.txt
 <br> Ubuntu (Linux) and Windows 10 Pro  <br> <br> 
 ## Screenshots : <br> <br>
 <img src="linux.png"> <br> <br> <img src="Windows.png">
+
+# disclaimer:
+  I'm not responsible for anything you do with this program, so please only use it for good and educational purposes.
