@@ -2,7 +2,7 @@
 A basic Port Scanner :mag_right: using python <br>
 # Usage:
 
-  <h3>Start portSpider with Python3:</h3> 
+  <h3>Start BasicPortScanner with Python3:</h3> 
 
 ```
 python3 BasicPortScanner.py
