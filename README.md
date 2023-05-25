@@ -5,7 +5,7 @@ A basic Port Scanner :mag_right: using python <br>
   <h3>Start portSpider with Python3:</h3> 
 
 ```
-python3 portSpider.py
+python3 BasicPortScanner.py
 ```
 <br>
 First Input : Ip Adress <br> <br>
